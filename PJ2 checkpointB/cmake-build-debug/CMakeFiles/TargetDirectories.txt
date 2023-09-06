@@ -1,0 +1,3 @@
+/Users/diego/Downloads/PJ2 checkpointB/cmake-build-debug/CMakeFiles/PJ2_checkpointB.dir
+/Users/diego/Downloads/PJ2 checkpointB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diego/Downloads/PJ2 checkpointB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
