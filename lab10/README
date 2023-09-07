@@ -1,4 +1,5 @@
 PRACTICING LINKEDLIST DATA STRUCTURE LAB
 
 This is just practicing LinkedLists while using overloaded operators but this time has 2 different merging operators.
-1st mergi
+Operator + : Merges both ordered list in order. does not have any duplicates
+Operator * : Merges both ordered sets but only if they both exist in both lists
