@@ -1,5 +1,6 @@
-ONLINE SHOPPING CART
+MUSIC PLAYLIST
 This is my Project 2 for my CS215 Programming II class at Sonoma State University.
 
-This is a shopping cart program that promps the user to add/remove/modify/output their shopping cart or a specific item in the cart.
-Input and output is controlled through the terminal. 
+This is a music playlist that reads an input file (input files reside in "cmake-build-debug" folder)
+the playlist contains add/remove/shuffle/play functions to organize/use the data
+
